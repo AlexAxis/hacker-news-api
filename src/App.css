@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.WrapCards {
+  width: auto;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 20px;
+}
+
+.rowFlex {
+  width: auto;
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 50px;
+}
